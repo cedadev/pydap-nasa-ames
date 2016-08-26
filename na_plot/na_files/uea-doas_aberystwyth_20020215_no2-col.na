@@ -1,0 +1,43 @@
+30 1001
+Shillito, J.A;  Allan B.J; Coe, H; Denis, L; Plane, J.M.C; Roscoe, H.K; Vaughan, G
+SEAES, The University of Manchester, Sackville Street, P. O. Box 88, Manchester. M60 1QD, UK
+Sunset Nitrogen Dioxide (NO2) Column Densities by using Zenith Sky Differential Optical Absorption Spectroscopy (DOAS). Measurements taken at University of Aberystwyth, Wales, UK.
+NERC-UTLS Ozone Thematic Program, 'Night-Time Chemistry of the Upper Troposphere and Lower Stratosphere'
+35 137
+2002 02 15 2006 10 20
+0
+SZA (Degrees)
+3
+1.0 1.0 1.0
+1E+30 1E+30 1E+30
+NO2 COLUMN DENSITY (molecules cm-2)
+ERROR (molecules cm-2)
+DETECTION LIMIT (molecules cm-2)
+8
+NO2 column densities shown below are obtained by scattered sun light during sunset.
+The corresponding vertical concentration profile is shown in the '_no2-pro' file.
+Instrument used: Czerny-Turner 0.5m focal length spectrometer, 1200 grooves mm-1 blazed grating and CCD, with a fibre and lens arrangement. Lens used had a f-number of 1.67 and focal length of 50mm.
+Air Mass Factors were accounted for using a Radiative Transfer model (Denis et al, 2004; Sarkissian et al, 1995).
+Denis et al, (2004): J. Quant. Spectrosc. Radiat. Trans. Vol 92, No 3, 321-333; Sarkissian et al, (1995): J. Quant. Spectrosc. Radiat. Transfer, Vol 54, No 3, 471-480
+Column densities that were either 1) stated below the detection limit 2) evenings with instrumental problems, have been removed from this data set.
+Latitude=52.42 North (52 degrees, 24 Minutes)
+Longitude=4.07 West (4 degrees, 3 Minutes)
+5
+THIS-FILE-Name=uea-doas_aberystwyth_20020215_no2-col.na
+THIS-FILE-Version=1
+THIS-FILE-ENDS=2002 02 15
+E-MAIL-CONTACT=hugh.coe@manchester.ac.uk
+SZA NO2 Error DetectionLimit
+82.9551     1.37732648E+16     1.97368886E+16     4.92091655E+13
+84.2090     1.98914126E+16     2.27446605E+16     5.67755867E+13
+85.1862     2.44737899E+16     2.29027207E+16     5.72947437E+13
+86.1548     3.00451212E+16     2.30413578E+16     5.76895059E+13
+87.0834     3.62790896E+16     2.31816337E+16     5.80582146E+13
+88.1804     4.78923620E+16     2.22840474E+16     5.59099614E+13
+89.0191     5.85471342E+16     2.05156063E+16     5.15300523E+13
+90.0046     7.23482675E+16     1.91903351E+16     4.82044165E+13
+91.1165     9.49242270E+16     1.75549431E+16     4.41811398E+13
+92.0058     1.16404659E+17     1.69798120E+16     4.19801903E+13
+93.0470     1.46150386E+17     1.61423514E+16     3.93737175E+13
+94.0694     1.80255326E+17     1.51502507E+16     3.51257372E+13
+95.0889     2.01613933E+17     1.46088500E+16     3.32367991E+13
